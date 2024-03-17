@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Kevon Sonkeng
+- 👋 Hi, I’m Kevon-ariel Sonkeng
+- 👨‍💻 You can find my personal portfolio at https://ksonkeng1.github.io/portfolio/
 - 👀 I’m interested in Software Engineering and translating business requirements to technical solutions
 - 🌱 I’m currently working on getting my AWS Solutions Architect certificate
 - 💞️ I’m looking to collaborate on any challenging and insightful projects
